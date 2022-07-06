@@ -1,0 +1,4 @@
+0 Arduino Uno
+1 Raspberry Zero
+2 Node MCU
+3 Background
