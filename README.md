@@ -3,7 +3,7 @@ Model สำหรับตัวอย่างโปรแกรมที่ 1
 
 
 ControllerModel เป็นโมเดลสำหรับตรวจจับ อุปกรณ์ได้แก่
-0 Arduino Uno
-1 Raspberry Zero
-2 Node MCU
-3 Background
+1) Arduino Uno
+2) Raspberry Zero
+3) Node MCU
+4) Background
