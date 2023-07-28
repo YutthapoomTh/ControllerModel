@@ -1,12 +1,5 @@
-
-
-
-
 # ControllerModel
 Model สำหรับตัวอย่างโปรแกรมที่ 11-5
-
-
-
 
 ControllerModel เป็นโมเดลสำหรับตรวจจับ อุปกรณ์ได้แก่
 1) Arduino Uno
@@ -14,5 +7,4 @@ ControllerModel เป็นโมเดลสำหรับตรวจจั�
 3) Node MCU
 4) Background
 
-
-## [![ ](https://firebasestorage.googleapis.com/v0/b/image-ytr.appspot.com/o/20201021201919!Google_Drive_icon_(2020).svg?alt=media&token=65d1b968-9a6e-474c-816c-1fbb237490eb)]
+![unnamed](https://github.com/YutthapoomTh/ControllerModel/assets/76672890/89d2694e-068c-47c9-aef4-f2f66da4cc84)
