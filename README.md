@@ -7,4 +7,5 @@ ControllerModel เป็นโมเดลสำหรับตรวจจั�
 3) Node MCU
 4) Background
 
-![unnamed](https://github.com/YutthapoomTh/ControllerModel/assets/76672890/89d2694e-068c-47c9-aef4-f2f66da4cc84)
+### Owner
+<img src="https://github.com/YutthapoomTh/ControllerModel/assets/76672890/89d2694e-068c-47c9-aef4-f2f66da4cc84" width="128"/>
