@@ -1,5 +1,3 @@
-### `Owner :` mr. Yutthapoom
-<img src="https://github.com/YutthapoomTh/ControllerModel/assets/76672890/89d2694e-068c-47c9-aef4-f2f66da4cc84" width="100"/>
 
 # `Controller Detection Model`
 Model สำหรับตัวอย่างโปรแกรมที่ 11-5
